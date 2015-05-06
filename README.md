@@ -1,5 +1,5 @@
 # SampleProject
-GitHub連携のPractice
+AndroidStudioとGitHub連携のPractice
 
 ## ScreeShot
 ![](static/screenshot.png)
