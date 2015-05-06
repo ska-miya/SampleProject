@@ -2,7 +2,6 @@
 GitHub連携のPractice
 
 ## ScreeShot
-
-![](static/screenshort.png)
+![](static/screenshot.png)
 
 
